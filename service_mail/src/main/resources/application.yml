@@ -1,0 +1,6 @@
+spring:
+  mail:
+    properties: smtp
+    host: smtp.sina.cn
+    username: vip_gouzi@sina.cn
+    password: wenjie520
